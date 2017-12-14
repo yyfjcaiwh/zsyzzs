@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.yonyou.zsyz</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1014</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>ZSYZ</string>
+				<string>数智圣农</string>
 			</dict>
 		</dict>
 	</array>
